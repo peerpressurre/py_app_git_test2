@@ -1,0 +1,5 @@
+t = (input('t->'))
+f = int(input('f->'))
+v = int(input('v->'))
+d = int(input('d->'))
+print(d - f - v)
